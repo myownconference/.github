@@ -1,5 +1,3 @@
-# MyOwnConference
-
 Host live webinars, demonstrate your product, and train your team with [MyOwnConference](https://myownconference.com/). Manage registration, invitations, audience interaction, recordings, and scheduled automated webinars in one account.
 
 Your attendees join in their browsers on desktop or mobile, without installing an app or plugin.
